@@ -1,3 +1,5 @@
+👋 Hi, I’m Janardan
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/jdevkota/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +10,6 @@
   </a>
 </div>
 
-- 👋 Hi, I’m Janardan Devkota
 - 👀 I’m interested in mathematical modeling of clinical and epidemiological data.
 - 🌱 I’m working as a Research Associate in academia, focusing on mental health, clinical and epidemiological research.
 - 💞️ I’m looking to collaborate on data management and analysis techniques used in pharmaceutical industries and clinical trials.
