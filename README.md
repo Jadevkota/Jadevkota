@@ -7,13 +7,13 @@
   <a href="https://twitter.com/Janardaana">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:jadevkota@gmail.com" style="text-decoration: none;">
+  <a href="mailto:jadevkota@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
 - 👀 I’m interested in mathematical modeling of clinical and epidemiological data.
-- 🌱 I’m working as a Research Associate in academia, focusing on mental health, clinical and epidemiological research.
+- 🌱 I’m working as a Research Associate, focusing on mental health, clinical and epidemiological research.
 - 💞️ I’m looking to collaborate on data management and analysis techniques used in pharmaceutical industries and clinical trials.
 - 📫 Feel free to connect with me by clicking the badges above.
 
