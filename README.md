@@ -8,8 +8,8 @@
   <a href="https://twitter.com/Janardaana">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="margin-right: 5px;"/>
   </a>
 </div>
 
