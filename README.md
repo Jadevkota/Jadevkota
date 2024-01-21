@@ -8,6 +8,9 @@
   <a href="https://twitter.com/Janardaana">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 - 👀 I’m interested in mathematical modeling of clinical and epidemiological data.
