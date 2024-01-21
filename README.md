@@ -1,15 +1,15 @@
 👋 Hi, I’m Janardan
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 <div id="badges">
   <a href="https://www.linkedin.com/in/jdevkota/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
   <a href="https://twitter.com/Janardaana">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="margin-right: 5px;"/>
+  <a href="mailto:jadevkota@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    Compose Email
   </a>
 </div>
 
