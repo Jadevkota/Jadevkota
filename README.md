@@ -1,7 +1,7 @@
 ### 👋 Hi there 🙏
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=2C7CF7&center=false&lines=Welcome+to+Janardan's+Github+Profile)](https://git.io/typing-svg)
-<img src="https://github-readme-stats.vercel.app/api?username=Jadevkota&show_icons=true" alt="logo" height="120" align="right" style="margin: 10px; margin-bottom: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jadevkota&show_icons=true" alt="logo" height="100" align="right" style="margin: 10px; margin-bottom: 10px;" />
 -------------------------------------------------------------------------------------------------------------------------------------------
 <div id="badges">
   <a href="https://www.linkedin.com/in/jdevkota/">
