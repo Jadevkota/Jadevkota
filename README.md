@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Janardaana-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://bsky.app/profile/janardan.bsky.social"> 
-    <img src="https://img.shields.io/badge/-Janardaana-blue?style=for-the-badge&logo=bsky&logoColor=white" alt="bsky Badge"/>
+    <img src="https://img.shields.io/badge/-Janardaana-blue?style=for-the-badge&logo=bsky&logoColor=white" alt="Bluesky Badge"/>
   </a>
   <a href="mailto:jadevkota@gmail.com">
     <img src="https://img.shields.io/badge/-jadevkota-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
