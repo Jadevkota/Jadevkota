@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2C7CF7&center=false&lines=Welcome+to+Janardan's+Github+Profile)](https://git.io/typing-svg)
 <img src="https://github-readme-stats.vercel.app/api?username=Jadevkota&show_icons=true" alt="logo" height="100" align="right" style="margin: 10px; margin-bottom: 10px;" />
 -------------------------------------------------------------------------------------------------------------------------------------------
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 <div id="badges">
   <a href="https://www.linkedin.com/in/jdevkota/">
     <img src="https://img.shields.io/badge/-jdevkota-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
