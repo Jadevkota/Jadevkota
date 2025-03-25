@@ -1,5 +1,5 @@
 ### 👋 Hi there 🙏
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jadevkota.visitor-badge)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2C7CF7&center=false&lines=Welcome+to+Janardan's+Github+Profile)](https://git.io/typing-svg)
 <img src="https://github-readme-stats.vercel.app/api?username=Jadevkota&show_icons=true" alt="logo" height="100" align="right" style="margin: 10px; margin-bottom: 10px;" />
