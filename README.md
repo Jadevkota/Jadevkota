@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2C7CF7&center=false&lines=Welcome+to+Janardan's+Github+Profile)](https://git.io/typing-svg)
 <img src="https://github-readme-stats.vercel.app/api?username=Jadevkota&show_icons=true" alt="logo" height="100" align="right" style="margin: 10px; margin-bottom: 10px;" />
 -------------------------------------------------------------------------------------------------------------------------------------------
+-- I've had a long academic journey through the world of public health and data science, with degrees in Public Health (BS), Master of Science in Nutrition and Dietetics        (MS), Master in Public Health Disasters (MPH), and Master of Science in Data Science (MS).
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 <div id="badges">
   <a href="https://www.linkedin.com/in/jdevkota/">
@@ -21,8 +23,8 @@
 </div>
 
 
-- 👀 I’m interested in mathematical modeling of clinical and epidemiological data.
-- 🌱 I’m working as a Research Associate, focusing on mental health, clinical and epidemiological research.
+- 👀 I’m interested in the mathematical modeling of clinical and epidemiological data.
+- 🌱 I’m working as a Research Associate, focusing on mental health, clinical, and epidemiological research.
 - 💞️ I’m looking to collaborate on data management and analysis techniques used in pharmaceutical industries and clinical trials.
 - 📫 Feel free to connect with me by clicking the badges above.
 <!---
